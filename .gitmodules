@@ -1,0 +1,15 @@
+[submodule "mcc-remote-configs"]
+	path = mcc-remote-configs
+	url = https://github.com/rodrigovsilva/mcc-remote-configs
+[submodule "mcc-config-server"]
+	path = mcc-config-server
+	url = https://github.com/rodrigovsilva/mcc-config-server
+[submodule "mcc-auth-server"]
+	path = mcc-auth-server
+	url = https://github.com/rodrigovsilva/mcc-auth-server
+[submodule "mcc-eureka-server"]
+	path = mcc-eureka-server
+	url = https://github.com/rodrigovsilva/mcc-eureka-server
+[submodule "mcc-currency-api"]
+	path = mcc-currency-api
+	url = https://github.com/rodrigovsilva/mcc-currency-api
